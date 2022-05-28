@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "985317871928",
+    "project_id": "shope-3d35c",
+    "storage_bucket": "shope-3d35c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985317871928:android:20c7606d9bbab17e1531cd",
+        "android_client_info": {
+          "package_name": "com.sahilr.snetix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985317871928-ntes39d6m4ktcfc53k14fjsckebak6oe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sahilr.snetix",
+            "certificate_hash": "d8fcfe8956110a7ab7ac132b80b96a00daf2617e"
+          }
+        },
+        {
+          "client_id": "985317871928-pa6vvllelljr50jss2ea2doc3qodo4o3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sahilr.snetix",
+            "certificate_hash": "1a77bbe1a48a1a9538d8a082f92efa82037e2d50"
+          }
+        },
+        {
+          "client_id": "985317871928-hoa4ov9f87ro5jth13pkrhn4mi18ro4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt9fzkl-cyLIbJW941OKCCp-9Ca8urg7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985317871928-hoa4ov9f87ro5jth13pkrhn4mi18ro4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
